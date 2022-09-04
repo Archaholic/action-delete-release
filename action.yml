@@ -1,6 +1,6 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
 
-name: "Delete Release"
+name: "Delete Release v1"
 description: "Delete a release identified by its tag."
 author: "kopp"
 inputs:
