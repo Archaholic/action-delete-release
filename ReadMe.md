@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Delete
-        uses: kopp/action-delete-release@v1
+        uses: The-PullRequest-Club/action-delete-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
