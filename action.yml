@@ -2,7 +2,7 @@
 
 name: "Delete Release v1"
 description: "Delete a release identified by its tag."
-author: "The-PullRequest-Club"
+author: "Archaholic"
 inputs:
   tag_name:
     description: "The tag of the release (as can be seen in the URL of an artefact: https://github.com/<org>/<repo>/releases/download/<TAG_NAME>/<artefact>)."
